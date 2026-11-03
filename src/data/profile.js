@@ -5,8 +5,8 @@ export const profile = {
   location: 'Tuban, Jawa Timur',
   email: 'gemmaameg@gmail.com',
   phone: '+62 813-3207-7753',
-  linkedin: 'https://linkedin.com/in/gemmadwi',
-  github: 'https://github.com/gemmadwi',
+  linkedin: 'https://id.linkedin.com/in/gemma-prasetya-ba1a3822a',
+  github: 'https://github.com/gemmadwi-mg',
   cvFile: '', // taruh PDF di folder public/ lalu isi, mis. '/CV_Gemma.pdf'
   summary:
     'Lulusan S1 Teknik Informatika Unesa (IPK 3.77). Saya membangun RESTful API, mengelola database, merancang hak akses (RBAC), dan men-deploy aplikasi dengan Docker, Nginx, dan GitLab CI/CD. Selain web, saya juga mengerjakan data pipeline (ETL), dashboard KPI, dan Machine Learning.',

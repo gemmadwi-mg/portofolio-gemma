@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui,sans-serif"><rect width="800" height="500" fill="#dbe4f3"/><rect x="30" y="26" width="740" height="450" rx="14" fill="#fff"/><path d="M30 40a14 14 0 0 1 14-14h712a14 14 0 0 1 14 14v22H30z" fill="#e2e8f0"/><circle cx="52" cy="44" r="5" fill="#f87171"/><circle cx="70" cy="44" r="5" fill="#fbbf24"/><circle cx="88" cy="44" r="5" fill="#34d399"/>
+<rect x="30" y="62" width="740" height="414" fill="#faf5ff"/><text x="54" y="94" font-size="18" font-weight="700" fill="#3b0764">Sentimen Ulasan — PCA + SVM</text>
+<rect x="54" y="112" width="400" height="342" rx="12" fill="#fff" stroke="#e9d5ff"/><text x="72" y="138" font-size="12" fill="#6b21a8">Sebaran data setelah PCA (2 komponen)</text>
+<path d="M254 150v290M70 300h368" stroke="#e5e7eb"/><path d="M130 440L380 160" stroke="#7c3aed" stroke-width="2.5" stroke-dasharray="7 5"/>
+<g fill="#22c55e"><circle cx="300" cy="200" r="6"/><circle cx="330" cy="230" r="6"/><circle cx="350" cy="190" r="6"/><circle cx="310" cy="260" r="6"/><circle cx="370" cy="250" r="6"/><circle cx="280" cy="236" r="6"/><circle cx="395" cy="214" r="6"/><circle cx="340" cy="280" r="6"/></g>
+<g fill="#ef4444"><circle cx="150" cy="360" r="6"/><circle cx="180" cy="390" r="6"/><circle cx="210" cy="340" r="6"/><circle cx="170" cy="320" r="6"/><circle cx="230" cy="380" r="6"/><circle cx="130" cy="400" r="6"/><circle cx="250" cy="330" r="6"/><circle cx="200" cy="420" r="6"/></g>
+<circle cx="236" cy="296" r="6" fill="#22c55e"/><circle cx="270" cy="312" r="6" fill="#ef4444"/>
+<g font-size="12" fill="#475569"><circle cx="80" cy="428" r="5" fill="#22c55e"/><text x="92" y="432">Positif</text><circle cx="150" cy="428" r="5" fill="#ef4444"/><text x="162" y="432">Negatif</text></g>
+<rect x="476" y="112" width="274" height="190" rx="12" fill="#fff" stroke="#e9d5ff"/><text x="494" y="138" font-size="12" fill="#6b21a8">Confusion matrix</text>
+<g><rect x="520" y="156" width="100" height="62" rx="8" fill="#7c3aed"/><rect x="628" y="156" width="100" height="62" rx="8" fill="#ede9fe"/><rect x="520" y="226" width="100" height="62" rx="8" fill="#ede9fe"/><rect x="628" y="226" width="100" height="62" rx="8" fill="#a78bfa"/></g>
+<g font-size="22" font-weight="700" text-anchor="middle"><text x="570" y="196" fill="#fff">84</text><text x="678" y="196" fill="#4c1d95">9</text><text x="570" y="266" fill="#4c1d95">11</text><text x="678" y="266" fill="#fff">79</text></g>
+<rect x="476" y="316" width="274" height="138" rx="12" fill="#fff" stroke="#e9d5ff"/><text x="494" y="342" font-size="12" fill="#6b21a8">Akurasi per kernel</text>
+<g font-size="11" fill="#475569"><text x="494" y="366">Linear</text><text x="494" y="388">RBF</text><text x="494" y="410">Poly</text><text x="494" y="432">Sigmoid</text></g>
+<g fill="#ddd6fe"><rect x="548" y="356" width="180" height="12" rx="6"/><rect x="548" y="378" width="180" height="12" rx="6"/><rect x="548" y="400" width="180" height="12" rx="6"/><rect x="548" y="422" width="180" height="12" rx="6"/></g>
+<g fill="#7c3aed"><rect x="548" y="356" width="160" height="12" rx="6"/><rect x="548" y="378" width="150" height="12" rx="6"/><rect x="548" y="400" width="130" height="12" rx="6"/><rect x="548" y="422" width="140" height="12" rx="6"/></g>
+</svg>

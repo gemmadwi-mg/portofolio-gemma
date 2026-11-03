@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui,sans-serif"><rect width="800" height="500" fill="#dbe4f3"/><rect x="30" y="26" width="740" height="450" rx="14" fill="#fff"/><path d="M30 40a14 14 0 0 1 14-14h712a14 14 0 0 1 14 14v22H30z" fill="#e2e8f0"/><circle cx="52" cy="44" r="5" fill="#f87171"/><circle cx="70" cy="44" r="5" fill="#fbbf24"/><circle cx="88" cy="44" r="5" fill="#34d399"/>
+<rect x="30" y="62" width="160" height="414" fill="#1e293b"/><text x="52" y="94" fill="#fff" font-weight="700" font-size="16">HRIS</text>
+<g fill="#334155"><rect x="46" y="118" width="128" height="26" rx="6" fill="#2563eb"/><rect x="46" y="154" width="128" height="26" rx="6"/><rect x="46" y="190" width="128" height="26" rx="6"/><rect x="46" y="226" width="128" height="26" rx="6"/><rect x="46" y="262" width="128" height="26" rx="6"/></g>
+<g fill="#cbd5e1" font-size="12"><text x="58" y="136" fill="#fff">Dashboard</text><text x="58" y="172">Karyawan</text><text x="58" y="208">Absensi</text><text x="58" y="244">Cuti &amp; Izin</text><text x="58" y="280">Payroll</text></g>
+<text x="214" y="96" font-size="18" font-weight="700" fill="#0f172a">Ringkasan hari ini</text>
+<g><rect x="214" y="112" width="166" height="76" rx="10" fill="#eff6ff"/><rect x="394" y="112" width="166" height="76" rx="10" fill="#ecfdf5"/><rect x="574" y="112" width="180" height="76" rx="10" fill="#fff7ed"/></g>
+<g font-size="12" fill="#475569"><text x="230" y="136">Karyawan</text><text x="410" y="136">Hadir</text><text x="590" y="136">Pengajuan cuti</text></g>
+<g font-size="26" font-weight="700" fill="#0f172a"><text x="230" y="170">128</text><text x="410" y="170">112</text><text x="590" y="170">7</text></g>
+<text x="214" y="222" font-size="13" font-weight="600" fill="#0f172a">Kehadiran mingguan</text>
+<g fill="#3b82f6"><rect x="230" y="320" width="34" height="60" rx="4"/><rect x="284" y="290" width="34" height="90" rx="4"/><rect x="338" y="270" width="34" height="110" rx="4"/><rect x="392" y="300" width="34" height="80" rx="4"/><rect x="446" y="262" width="34" height="118" rx="4"/></g>
+<g fill="#f1f5f9"><rect x="520" y="236" width="234" height="30" rx="6"/><rect x="520" y="276" width="234" height="30" rx="6"/><rect x="520" y="316" width="234" height="30" rx="6"/><rect x="520" y="356" width="234" height="30" rx="6"/></g>
+<g fill="#10b981"><rect x="700" y="244" width="46" height="14" rx="7"/><rect x="700" y="324" width="46" height="14" rx="7"/></g><g fill="#f59e0b"><rect x="700" y="284" width="46" height="14" rx="7"/><rect x="700" y="364" width="46" height="14" rx="7"/></g>
+<rect x="214" y="410" width="540" height="44" rx="10" fill="#1e293b"/><text x="232" y="437" font-size="13" fill="#fff">Slip gaji Mei 2026  ·  PPh 21 TER</text><text x="740" y="437" font-size="13" fill="#34d399" text-anchor="end">Rp 8.450.000</text>
+</svg>
